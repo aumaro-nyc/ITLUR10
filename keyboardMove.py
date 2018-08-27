@@ -1,4 +1,8 @@
 # This macro allows moving a robot using the keyboard
+
+# CONTROLS
+# W A S D: Moves UR10 arm in real time. Movement smoothness is VERY inconsistent.
+
 # Note: This works on console mode only, you must run the PY file separately
 #
 # More information about the RoboDK API here:
