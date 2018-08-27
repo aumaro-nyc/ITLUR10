@@ -1,4 +1,9 @@
-# This macro allows moving a robot using the keyboard
+# This script allows for real time control over UR10 arm position in RoboDK simulation.
+
+# CONTROLS
+# W A S D: controls movement in RoboDK simulation
+# M: updates real UR10 arm position to match change in simulation position
+
 # Note: This works on console mode only, you must run the PY file separately
 #
 # More information about the RoboDK API here:
